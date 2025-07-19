@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "BUOI1"
+		},
+		{
+			"path": "../HIT_Python_Public_2025_documents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HIT_PYTHON_PUBLIC_2025",
+		"liveServer.settings.port": 5501
+	}
+}
